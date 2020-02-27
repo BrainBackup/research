@@ -16,3 +16,6 @@ Research findings for brain backup  and memory problem
 
 [Schema - Wikipedia](https://en.wikipedia.org/wiki/Schema_(psychology))
 
+## Contribution
+
+New findings are more than welcome!
